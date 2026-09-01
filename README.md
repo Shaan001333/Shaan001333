@@ -19,7 +19,7 @@
 - 🎓 B.Tech in **Mathematics and Computing** at **IIT Patna** — CPI: **8.57** (4th Sem SPI: **9.27**)
 - 🧠 Focused on **backend engineering** and **applied ML/AI**, shipping end-to-end systems from scratch
 - 🏆 Top **0.7%** out of 14 Lakh+ candidates in **JEE Advanced**
-- 🥈 **Pupil** on Codeforces (max rating 1288) | 150+ problems solved on LeetCode
+- 🥈 **Pupil** on Codeforces (max rating 1325) | 500+ problems solved on LeetCode | 700+ problems on Codeforces 
 - 🧑‍🏫 Co-Mentor at IIT Patna's Student Mentorship Programme, guiding freshers through CP & college life
 - 💬 Ask me about time-series compression, vector search, or making dashboards feel instant
 
